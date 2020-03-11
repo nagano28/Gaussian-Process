@@ -7,6 +7,4 @@
 
 ・「for_studying: 虫食い勉強用」
 
-・「correct_answer: 正解」
-
 ※3.5章までです．
